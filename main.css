@@ -34,6 +34,7 @@ header {
     font-size: 20px;
     vertical-align: top;
     width: 900px;
+    padding-bottom: 450px;
 }
 
 .container {
@@ -48,7 +49,7 @@ header {
 button {
     background-color: #76B900;
     display: block;
-    width: 400px;
+    width: 602px;
     height: 150px;
     font-size: 40px;
     cursor: pointer;
