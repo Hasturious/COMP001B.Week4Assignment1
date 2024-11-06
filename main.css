@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 aside {
@@ -43,7 +44,9 @@ header {
     font-size: 20px;
     vertical-align: top;
     width: 900px;
-    padding-bottom: 450px;
+    padding-bottom: 200px;
+    margin: auto;
+    text-align: center;
 }
 
 .container {
@@ -58,10 +61,12 @@ header {
 button {
     background-color: #76B900;
     display: block;
-    width: 120px;
-    height: 80px;
-    font-size: 20px;
+    width: auto;
+    height: 50px;
+    font-size: 40px;
     cursor: pointer;
     text-align: center;
     margin-top: 20px;
+    padding: auto;
+    margin: auto;
 }
