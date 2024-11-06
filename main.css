@@ -43,3 +43,15 @@ header {
     gap: 15px; 
     margin-top: 20px;
 }
+
+
+button {
+    background-color: #76B900;
+    display: block;
+    width: 400px;
+    height: 150px;
+    font-size: 40px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+}
