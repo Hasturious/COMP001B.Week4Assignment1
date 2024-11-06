@@ -21,7 +21,9 @@ header {
 .topBar {
     background-color: white;
     margin:  0px;
-    color: black
+    color: black;
+    font-size: 20px;
+    word-spacing: 70px;
 }
 
 .card {
@@ -56,9 +58,9 @@ header {
 button {
     background-color: #76B900;
     display: block;
-    width: 602px;
-    height: 150px;
-    font-size: 40px;
+    width: 120px;
+    height: 80px;
+    font-size: 20px;
     cursor: pointer;
     text-align: center;
     margin-top: 20px;
