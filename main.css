@@ -19,6 +19,18 @@ header {
     background-color: #303030;
 }
 
+footer {
+    float: left;
+    position: absolute;
+    bottom: 0;
+    padding: 12px;
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: auto 0;
+    margin-right: 6000px;
+}
+
 .topBar {
     background-color: white;
     margin:  0px;
