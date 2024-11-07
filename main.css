@@ -5,9 +5,10 @@ body {
 }
 
 aside {
-    width: 100%;
     float: left;
-    position: relative;
+	width: 15%;
+	position: relative;
+	left: 40px;
 }
 
 header {
@@ -34,9 +35,8 @@ header {
 
 .cardBackground {
     background-color: rgb(47, 49, 45);
-    width: 600px;
-    display: flex;
-    justify-content: center;
+    float: left;
+	width: 100%;
     border: 2px solid #76B900 ;
 }
 
