@@ -45,16 +45,26 @@ header {
     vertical-align: top;
     width: 900px;
     padding-bottom: 200px;
-    margin: auto;
     text-align: center;
+    margin: auto 0;
+}
+
+.rightText {
+    font-size: 20px;
+    vertical-align: top;
+    padding-bottom: 280px;
+    padding-left: 20px;
+    max-width: 150px;
 }
 
 .container {
     display: flex;
-    align-items: center; 
-    justify-content: center;
-    gap: 15px; 
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
     margin-top: 20px;
+    width: 75%;
+    margin: 0 auto;
 }
 
 
