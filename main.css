@@ -23,12 +23,10 @@ footer {
     float: left;
     position: absolute;
     bottom: 0;
-    padding: 12px;
     background-color: white;
     color: black;
     width: 100%;
-    padding: auto 0;
-    margin-right: 6000px;
+    word-spacing: 70px;
 }
 
 .topBar {
